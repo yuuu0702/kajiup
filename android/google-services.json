@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "278990789290",
+    "project_id": "watanabe-project-88125",
+    "storage_bucket": "watanabe-project-88125.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278990789290:android:cb32323549c9491d978ed3",
+        "android_client_info": {
+          "package_name": "com.kajiup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkzroG7NjRGM8SZiALzds86ZNlrItwhss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
